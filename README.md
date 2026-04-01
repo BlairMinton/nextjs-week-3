@@ -9,6 +9,8 @@ Ensure you read the documentation to understand what kind of data is returned fr
 One example route has been created for you:
 - `/recipes/[id]`
 
+Use the code in the already created route page to help you create the remaining pages.
+
 ---
 
 ## Instructions
