@@ -6,7 +6,8 @@ Each route should display **3 pieces of of information fetched from the DummyJSO
 
 Ensure you read the documentation to understand what kind of data is returned from the API for each route. 
 
-One example route has been created for you in the NextJS project.
+One example route has been created for you:
+- `/recipes/[id]`
 
 ---
 
@@ -17,7 +18,7 @@ One example route has been created for you in the NextJS project.
     - `/products/[id]`
     - `/users/[id]`
     - `/posts/[id]`
-4. Create the page.tsx files and implement fetching from the API
+4. Create the page.tsx files in each route and implement fetching from the API
 5. Display 3 pieces of information on each page from the data returned from the API 
 6. Stage, commit, and push the changes to your fork
 7. Create a pull request on _this_ repository merging the changes from your fork to this repositories `master` branch
