@@ -1,7 +1,7 @@
 # Dynamic Routes with DummyJSON
 In this activity you will build **three dynamic routes** in a Next.js application.
 
-Each route should display **3 pieces of of information fetched from the DummyJSON API**:
+Each route should display **3 pieces of of information fetched from the DummyJSON API** for a _single_ item:
 [https://dummyjson.com/docs](https://dummyjson.com/docs)
 
 Ensure you read the documentation to understand what what routes you can use and what kind of data is returned from the API for each route. 
